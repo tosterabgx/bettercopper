@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/rail_corner",
+  "textures": {
+    "rail": "bettercopper:block/exposed_copper_rail_corner"
+  }
+}
