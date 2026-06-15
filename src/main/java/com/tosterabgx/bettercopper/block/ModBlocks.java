@@ -1,6 +1,7 @@
 package com.tosterabgx.bettercopper.block;
 
 import com.tosterabgx.bettercopper.BetterCopper;
+import com.tosterabgx.bettercopper.CopperRailsConfig;
 import net.fabricmc.fabric.api.creativetab.v1.CreativeModeTabEvents;
 import net.fabricmc.fabric.api.registry.OxidizableBlocksRegistry;
 import net.minecraft.core.Registry;

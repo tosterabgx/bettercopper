@@ -1,9 +1,5 @@
 # BetterCopper
 
-## Setup
+## Content
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- Smooth rails (the more oxidized they get, the more friction they have. waxed rails have no friction.)

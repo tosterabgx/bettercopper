@@ -3,7 +3,9 @@
 	"package": "com.tosterabgx.bettercopper.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ExampleMixin"
+		"MinecartBehaviorMixin",
+		"NewMinecartBehaviorMixin",
+		"OldMinecartBehaviorMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
